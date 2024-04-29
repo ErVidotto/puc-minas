@@ -1,0 +1,7 @@
+Marca ...: fiat 
+Modelo ..: punto 
+Cor .....: preto 
+Placa ...: elt9f60 
+Chassi ..: 23h2ui3h 
+Nº Portas: 4 
+Ano Fabr.: 2012 
