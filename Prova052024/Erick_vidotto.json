@@ -1,0 +1,18 @@
+[
+    {
+        "Questão":"Faixa etária com maior população masculina",
+        "Resultado":"População Total, população: 609242268.0"
+    },
+    {
+        "Questão":"Faixa etária com maior população feminina",
+        "Resultado":"40 a 44 anos, população: 48216510.0"
+    },
+    {
+        "Questão":"Município com mais homens na faixa etária entre 25 e 29 anos",
+        "Resultado":"Brasil, população: 7627458.0"
+    },
+    {
+        "Questão":"Município com menos homens na faixa etária entre 25 e 29 anos",
+        "Resultado":"Roraima, população: 27568.0"
+    }
+]
